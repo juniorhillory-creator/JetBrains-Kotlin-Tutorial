@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JetBrains-Kotlin-Tutorial.iml" filepath="$PROJECT_DIR$/JetBrains-Kotlin-Tutorial.iml" group="JetBrains-Kotlin-Tutorial" />
+      <module fileurl="file://$PROJECT_DIR$/JetBrains-Kotlin-Tutorial.iml" filepath="$PROJECT_DIR$/JetBrains-Kotlin-Tutorial.iml" />
     </modules>
   </component>
 </project>
