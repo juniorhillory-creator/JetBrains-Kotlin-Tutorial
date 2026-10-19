@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f753638a-7867-46d4-af5f-49fc23aed231" name="Changes" comment="" />
+    <list default="true" id="f753638a-7867-46d4-af5f-49fc23aed231" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +18,96 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JetBrains-Kotlin-Tutorial" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000002156457801" />
+      <entry key="MS500" value="1.125151688429359" />
+      <entry key="S2" value="3.6233162792175757" />
+      <entry key="S5" value="6.552355018371466" />
+      <entry key="S10" value="9.933438747481572" />
+      <entry key="S30" value="26.049071067973003" />
+      <entry key="S60" value="39.927666802519894" />
+      <entry key="M2" value="50.88352319975018" />
+      <entry key="M5" value="59.35792170432869" />
+      <entry key="M10" value="62.570334909303796" />
+      <entry key="M15" value="63.688667315663196" />
+      <entry key="M30" value="64.83169574558637" />
+      <entry key="H1" value="65.41265160614383" />
+      <entry key="H2" value="65.70552208895386" />
+      <entry key="H4" value="65.85255953193145" />
+      <entry key="D1" value="65.97539855108839" />
+      <entry key="W1" value="65.9964848200149" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.00820111845202534" />
+      <entry key="MS500" value="0.5064389922117702" />
+      <entry key="S2" value="3.396638016493629" />
+      <entry key="S5" value="6.436733115878257" />
+      <entry key="S10" value="9.851940745844262" />
+      <entry key="S30" value="26.003250391785166" />
+      <entry key="S60" value="39.89959439097446" />
+      <entry key="M2" value="50.86772386912652" />
+      <entry key="M5" value="59.35109433265435" />
+      <entry key="M10" value="62.56682821053762" />
+      <entry key="M15" value="63.686308167113836" />
+      <entry key="M30" value="64.83050532070587" />
+      <entry key="H1" value="65.4120536474897" />
+      <entry key="H2" value="65.70522241882666" />
+      <entry key="H4" value="65.85240952363372" />
+      <entry key="D1" value="65.97537352559971" />
+      <entry key="W1" value="65.99648124435411" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="3KuXMhfu1Rl7yfE9zXvOlJZwMKK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,7 +119,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "01__Functions__Collections__and__I/O",
     "kotlin-language-version-configured": "true",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/menak/IdeaProjects/Linkedin/hello/JetBrains-Kotlin-Tutorial/src/main/kotlin/Main.kt",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
@@ -56,6 +147,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
