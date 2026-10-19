@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JetBrains-Kotlin-Tutorial.iml" filepath="$PROJECT_DIR$/JetBrains-Kotlin-Tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JetBrains-Kotlin-Tutorial.main.iml" filepath="$PROJECT_DIR$/.idea/modules/JetBrains-Kotlin-Tutorial.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JetBrains-Kotlin-Tutorial.test.iml" filepath="$PROJECT_DIR$/.idea/modules/JetBrains-Kotlin-Tutorial.test.iml" />
     </modules>
   </component>
 </project>
