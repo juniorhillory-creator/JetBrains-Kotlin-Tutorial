@@ -1,22 +1,28 @@
 import Enum.Directions
+import Enum.HighlightColor
+import kotlin.Enum.Companion
 
 //Enum classes
 
 //think that We r going to model cardinal directions
 
-fun main(){
-    val direction: Directions = Enum.Directions.WEST //define directions variable
-    println(direction.name)
-    println(direction.ordinal)//index of the value
+//private val Companion.Directions:
 
-    //val parsedDirection=Enum.Directions.valueOf("kotlin")
-    //println(direction.name)
+fun main() {
+    // Reference enum constants directly by their class name
+    val direction: Directions = Directions.WEST
+    println(direction.name)    // Prints: WEST
+    println(direction.ordinal) // Prints: 3 (0-based index)
 
+    // valueOf matches the exact name of the constant
+    val parsedDirection = Directions.valueOf("WEST")
+    println(parsedDirection.name)
 
-    val apiValue= Enum.Directions.values()[2]
-    println(apiValue.name)
+    // In modern Kotlin (1.9+), use .entries instead of .values()
+    val apiValue = Directions.entries[2] // or Directions.values()[2]
+    println(apiValue.name)               // Prints: EAST
 
-    //colors
-    val color = Enum.HighlightColor.BLUE
-    println(color.value)
+    // Enum with custom property
+    val color = HighlightColor.BLUE
+    println(color.value)                 // Prints: #0000FF
 }

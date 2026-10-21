@@ -1,7 +1,7 @@
 package Enum//hex color for each value in directions
 
-enum class HighlightColor(val value: Int){
-    YELLOW(0xebba34),
-    BLUE(0xebba35),
-    PURPLE(0xebba36),
+enum class HighlightColor(val value: String) {
+    RED("#FF0000"),
+    GREEN("#00FF00"),
+    BLUE("#0000FF")
 }
