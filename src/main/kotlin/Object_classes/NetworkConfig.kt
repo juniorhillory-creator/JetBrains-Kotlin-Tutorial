@@ -1,5 +1,7 @@
+package Object_classes
+
 //object classes
-object NetworkConfig :NetworkInfoProvider{
+object NetworkConfig : NetworkInfoProvider {
     val baseUrl="http://localhost:8080"
     val userAgent="Demo-app"
 

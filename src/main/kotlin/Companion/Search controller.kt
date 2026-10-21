@@ -1,3 +1,5 @@
+package Companion
+
 //companion object
 class SearchController {
     private var query:String = ""

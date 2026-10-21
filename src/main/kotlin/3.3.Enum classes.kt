@@ -1,20 +1,22 @@
+import Enum.Directions
+
 //Enum classes
 
 //think that We r going to model cardinal directions
 
 fun main(){
-    val direction:Directions=Directions.WEST //define directions variable
+    val direction: Directions = Enum.Directions.WEST //define directions variable
     println(direction.name)
     println(direction.ordinal)//index of the value
 
-    //val parsedDirection=Directions.valueOf("kotlin")
+    //val parsedDirection=Enum.Directions.valueOf("kotlin")
     //println(direction.name)
 
 
-    val apiValue=Directions.values()[2]
+    val apiValue= Enum.Directions.values()[2]
     println(apiValue.name)
 
     //colors
-    val color = HighlightColor.BLUE
+    val color = Enum.HighlightColor.BLUE
     println(color.value)
 }

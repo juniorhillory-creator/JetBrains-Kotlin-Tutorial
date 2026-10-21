@@ -9,7 +9,7 @@ open class Person(val age: Int, val firstName: String, val lastName: String) {
     }
 }
 
-// 2. Child Class: Inherits from Person using the colon (:) syntax
+// 2. Child Class: Inherits from Classes.Person using the colon (:) syntax
 class Student(
     age: Int,
     firstName: String,
@@ -17,7 +17,7 @@ class Student(
 ) : Person(age, firstName, lastName)
 
 fun main() {
-    // 3. Storing Student instances inside Person-typed reference variables
+    // 3. Storing Classes.Student instances inside Classes.Person-typed reference variables
     val student: Person = Student(34, "Nate", "Ben")
     val person: Person = Student(34, "Max", "Nall")
 

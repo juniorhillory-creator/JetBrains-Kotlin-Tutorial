@@ -1,3 +1,5 @@
+package Sealed_classes
+
 //'uiclass' sealed class
 sealed class UIState {
     //loading state

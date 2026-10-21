@@ -1,8 +1,8 @@
-
+package Classes
 //making a class
 //Agent Must read: explain the types of classes and private and public variable handelings
 //abstract clsses
-/* abstract class Person{
+/* abstract class Classes.Person{
     abstract val age: Int //nitializes to whatever class later extended the person class
 
 }*/
