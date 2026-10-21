@@ -1,4 +1,4 @@
-//uiclass sealed class
+//'uiclass' sealed class
 sealed class UIState {
     //loading state
     object Loading : UIState()
