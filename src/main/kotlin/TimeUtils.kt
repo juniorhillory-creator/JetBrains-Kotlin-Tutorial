@@ -1,8 +1,9 @@
 //internal variable
-internal val hourInMillis =60*60*1000
+internal val hourInMillis = 60 * 60 * 1000
 
 //internal fun
-internal fun millisForHours(hours:Int)=hours*hourInMillis
+internal fun millisForHours(hours: Int) = hours * hourInMillis
 
 //For extention properties
-internal fun Int.millisForHours()=this*hourInMillis
+@JvmName("millisForHoursExt")
+internal fun Int.millisForHours() = this * hourInMillis
